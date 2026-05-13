@@ -2,7 +2,7 @@
 
 ## How to Install
 
-1. Click the green **Code** button → **Download ZIP** to get the full library
+1. Click the releases button and find the exam packages or course you want to download
 2. Open **NGN Studio**
 3. Click **Package** → **From ZIP** and select the downloaded file
 4. The exams will appear in your library instantly
